@@ -1,3 +1,8 @@
+'''
+Autor Jose Daniel Duran Toro
+Carnet: 10-10222
+'''
+
 from datetime import timedelta, datetime, time
 from decimal import Decimal
 from tarea2 import tarifa, monto

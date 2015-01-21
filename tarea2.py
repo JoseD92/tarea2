@@ -1,4 +1,9 @@
-﻿from datetime import timedelta, datetime, time
+﻿'''
+Autor Jose Daniel Duran Toro
+Carnet: 10-10222
+'''
+
+from datetime import timedelta, datetime, time
 from decimal import Decimal
 
 class tarifa:

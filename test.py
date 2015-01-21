@@ -1,3 +1,8 @@
+'''
+Autor Jose Daniel Duran Toro
+Carnet: 10-10222
+'''
+
 import unittest
 from datetime import timedelta, datetime, time
 from decimal import Decimal
